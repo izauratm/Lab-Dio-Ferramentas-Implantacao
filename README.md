@@ -112,6 +112,8 @@ Dominar essas ferramentas é essencial para qualquer profissional que deseje atu
 - [Visão Geral do Azure Arc](https://learn.microsoft.com/pt-br/azure/azure-arc/overview)
 - [Preços do Azure Arc](https://azure.microsoft.com/pt-br/pricing/details/azure-arc/core-control-plane/)
 - [Azure Arc](https://azure.microsoft.com/pt-br/products/azure-arc/?msockid=24a39583fb0a6a871e0683edfaf16bb2)
+- [Azure Resource Manager](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/overview)
+- [IaC](https://learn.microsoft.com/pt-br/devops/deliver/what-is-infrastructure-as-code)
 - [Bicep Playground - Comparativo de Códigos](https://azure.github.io/bicep/)
 
   
